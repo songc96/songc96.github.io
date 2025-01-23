@@ -15,14 +15,6 @@ Education
 * M.S. in School of Automation, Central South University, 2021
 * B.S. in School of Electrical and Information Engineering, Changsha University of Science and Technology, 2018
 
-  
-Skills
-======
-* Python
-  * Pytorch
-  * Tensorflow
-* Matlab
-* Seisee
 
 Service and leadership
 ======
@@ -40,4 +32,12 @@ Honors and Awards
 * 2020 National Scholarship for postgraduate students, Ministry of Education
 * 2018 Outstanding Undergraduate, Hunan Provice
 * 2016 National Scholarship for undergraduate students, Ministry of Education
-  
+
+    
+Skills
+======
+* Python
+  * Pytorch
+  * Tensorflow
+* Matlab
+* Seisee
