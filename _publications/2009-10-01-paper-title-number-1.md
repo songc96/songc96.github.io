@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Reservoir Prediction Based on Closed-Loop CNN and Virtual Well-Logging Labels"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
