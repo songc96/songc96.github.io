@@ -22,6 +22,7 @@ Education
 Publications
 ======
 * Journal
+  
 [1] <ins>**Cao Song**</ins>, Wenkai Lu, Yuqing Wang, Songbai Jin, Jinliang Tang, and Lei Chen, **Reservoir Prediction Based on Closed-Loop CNN and Virtual Well-Logging Labels**, *IEEE Transactions on Geoscience and Remote Sensing*, vol. 60, no. 5925313, pp: 1-12, 2022. (SCI, Q1, IF:7.5)
 [2] <ins>**Cao Song**</ins>, Minghui Lu, Yuqing Wang, and Wenkai Lu, A Dynamic Time Warping Loss-Based Closed-Loop CNN for Seismic Impedance Inversion, **IEEE Transactions on Geoscience and Remote Sensing**, vol. 60, no. 5925313, pp: 1-13, 2022. (第一作者, SCI, Q1, IF:7.5)
 [3] <ins>**Cao Song**</ins>, Minghui Lu, Yinshuo Li, Wenkai Lu, Xinhai Hu, Jianyong Song, Gang Chen, and Tinming Tang, Spatial Pattern Learning: Dip Structure Constraint Multi-view Convolutional Neural Network for Pre-stacked Seismic Inversion, **IEEE Transactions on Geoscience and Remote Sensing**, vol. 61, no. 5917116, pp: 1-16, 2023. (第一作者, SCI, Q1, IF:7.5)
@@ -36,6 +37,7 @@ Publications
 [12] Qiang Ge, Hong Cao, Zhifang Yang, Sanyi Yuan and <ins>**Cao Song**</ins>, Deep-Learning-Based Prestack Seismic Inversion Constrained by AVO Attributes, **IEEE Geoscience and Remote Sensing Letters**, vol. 21, no. 3001405, pp: 1-5, 2024. (SCI, Q1, IF:.4.4)
 
 * Conference
+  
 [13] <ins>**Cao Song**</ins>, Minghui Lu, Wenkai Lu, Weiheng Geng, and Yinshuo Li, Seismic Impedance Inversion Based on Conditional Diffusion Probabilistic Model, **85TH EAGE annual conference & exhibition**, 2024. (第一作者, CCF-B 会议, EI)
 [14] <ins>**宋操**</ins>、卢明辉、李尹硕、陆文凯、陈刚、唐廷明, 基于递进多视图学习的叠前地震弹性反演和含油饱和度预测, **2023年中国地球科学联合学术年会**, 2023.8. (口头学术报告)
 [15] <ins>**宋操**</ins>、卢明辉、陆文凯、李尹硕，基于地质构造约束的深度闭环地震速度反演，**第六届油气地球物理学术年会**, 2024.4. (口头学术报告)
