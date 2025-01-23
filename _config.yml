@@ -27,7 +27,7 @@ author:
   bio              : "PhD Student Tsinghua University"
   location         : "Beijing, China"
   employer         : "Tsinghua University"
-  uri              : #https://github.com/songc96/songc96.github.io
+  uri              : # URL
   email            : "songcao96@163.com; songc21@mails.tsinghua.edu.cn" 
 
   # Academic websites
