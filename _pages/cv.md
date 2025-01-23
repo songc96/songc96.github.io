@@ -15,22 +15,6 @@ Education
 * M.S. in School of Automation, Central South University, 2021
 * B.S. in School of Electrical and Information Engineering, Changsha University of Science and Technology, 2018
 
-#Work experience
-#======
-#* Spring 2024: Academic Pages Collaborator
-#  * Github University
-#  * Duties includes: Updates and improvements to template
-#  * Supervisor: The Users
-
-#* Fall 2015: Research Assistant
-#  * Github University
-#  * Duties included: Merging pull requests
-#  * Supervisor: Professor Hub
-
-#* Summer 2015: Research Assistant
-#  * Github University
-#  * Duties included: Tagging issues
-#  * Supervisor: Professor Git
   
 Skills
 ======
@@ -40,24 +24,6 @@ Skills
 * Matlab
 * Seisee
 
-#Publications
-#======
-#  <ul>{% for post in site.publications reversed %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
-#Talks
-#======
-#  <ul>{% for post in site.talks reversed %}
-#    {% include archive-single-talk-cv.html  %}
-#  {% endfor %}</ul>
-  
-#Teaching
-#======
-#  <ul>{% for post in site.teaching reversed %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
 Service and leadership
 ======
 * Reviewer
@@ -65,3 +31,13 @@ Service and leadership
   * IEEE Transactions on Instrumentation and Measurement (TIM)
   * IEEE Geoscience and Remote Sensing Letters (GRSL)
   * Petroleum Science (PS)
+
+Honors and Awards
+======
+* 2022-2025 Tsinghua University Comprehensive Excellence Scholarship, Tsinghua University
+* 2021 Excellent master's thesis, Hunan Provice
+* 2021 Outstanding Undergraduate, Hunan Provice
+* 2020 National Scholarship for postgraduate students, Ministry of Education
+* 2018 Outstanding Undergraduate, Hunan Provice
+* 2016 National Scholarship for undergraduate students, Ministry of Education
+  
