@@ -9,9 +9,9 @@ redirect_from:
 
 About Me
 ======
-I am current a PhD student in [Department of Automation](https://www.au.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/) adivsed by [Prof. Wenkai Lu](https://www.au.tsinghua.edu.cn/info/1096/1541.htm)[(陆文凯)](https://www.au.tsinghua.edu.cn/info/1096/1541.htm). My research interest includes Physics-Informed Neural Networks (PINNs), Computer Vision, Signal Processing, Deep Learning and its application in Geophysics.
+I am current a PhD student in [Department of Automation](https://www.au.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/) adivsed by [Prof. Wenkai Lu](https://www.au.tsinghua.edu.cn/info/1096/1541.htm)[(陆文凯)](https://www.au.tsinghua.edu.cn/info/1096/1541.htm). My research interest includes **Physics-Informed Neural Networks (PINNs)**, **Computer Vision**, **Signal Processing**, **Deep Learning** and its application in **Geophysics**.
 
-I am looking for cooperation opportunities. If you are interested with my research, please contact me via Email(songcao96@163.com; songc21@mails.tsinghua.edu.cn)
+I am looking for cooperation opportunities. If you are interested with my research, please contact me via Email(<ins>songcao96@163.com<ins>; <ins>songc21@mails.tsinghua.edu.cn<ins>)
 
 Education
 ======
@@ -21,7 +21,7 @@ Education
 
 Publications
 ======
-[1] <ins>**Cao Song**, Wenkai Lu, Yuqing Wang, Songbai Jin, Jinliang Tang, and Lei Chen, Reservoir Prediction Based on Closed-Loop CNN and Virtual Well-Logging Labels, IEEE Transactions on Geoscience and Remote Sensing, vol. 60, no. 5925313, pp: 1-12, 2022. (SCI, Q1, IF:7.5)
+[1] <ins>**Cao Song**<ins>, Wenkai Lu, Yuqing Wang, Songbai Jin, Jinliang Tang, and Lei Chen, **Reservoir Prediction Based on Closed-Loop CNN and Virtual Well-Logging Labels**, *IEEE Transactions on Geoscience and Remote Sensing*, vol. 60, no. 5925313, pp: 1-12, 2022. (SCI, Q1, IF:7.5)
 
 Service and leadership
 ======
