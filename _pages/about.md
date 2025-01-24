@@ -41,7 +41,7 @@ Publications
 [13] <ins>**Cao Song**</ins>, Minghui Lu, Wenkai Lu, Weiheng Geng, and Yinshuo Li, **Seismic Impedance Inversion Based on Conditional Diffusion Probabilistic Model**, *85TH EAGE annual conference & exhibition*, 2024.(EI, Poster)\
 [14] <ins>**宋操**</ins>、卢明辉、李尹硕、陆文凯、陈刚、唐廷明, **基于递进多视图学习的叠前地震弹性反演和含油饱和度预测**, *2023年中国地球科学联合学术年会*, 2023.8. (口头学术报告)\
 [15] <ins>**宋操**</ins>、卢明辉、陆文凯、李尹硕，**基于地质构造约束的深度闭环地震速度反演**，*第六届油气地球物理学术年会*, 2024.4. (口头学术报告)\
-[16] Qiwu Luo, Chunhua Yang, <ins>**Cao Song**</ins>, Jian Zhou and Weihua Gui, **TDLAS/WMS embedded system for oxygen concentration detection of glass vials with variational mode decomposition**, *IFAC-PapersOnLine*, vol. 53, no. 2, pp: 11626-11631, 2020. ((EI)\
+[16] Qiwu Luo, Chunhua Yang, <ins>**Cao Song**</ins>, Jian Zhou and Weihua Gui, **TDLAS/WMS embedded system for oxygen concentration detection of glass vials with variational mode decomposition**, *IFAC-PapersOnLine*, vol. 53, no. 2, pp: 11626-11631, 2020. (EI)\
 [17] Yinshuo Li, Wenkai Lu, Zhuo Jia and <ins>**Cao Song**</ins>，**Two-stage deep learning for 3D joint inversion of gravity and magnetic**, *Third International Meeting for Applied Geoscience & Energy, Society of Exploration Geophysicists and American Association of Petroleum Geologists*, pp: 1030-1034, 2023. (EI)
 
 Projects
