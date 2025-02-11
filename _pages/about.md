@@ -23,7 +23,8 @@ Publications
 ======
 * **Journal**
   
-[1] <ins>**Cao Song**</ins>, Wenkai Lu, Yuqing Wang, Songbai Jin, Jinliang Tang, and Lei Chen, **Reservoir Prediction Based on Closed-Loop CNN and Virtual Well-Logging Labels**, *IEEE Transactions on Geoscience and Remote Sensing*<font color=red>(IEEE TGRS)</font>, vol. 60, no. 5925313, pp: 1-12, 2022. (SCI, Q1, IF:7.5)\
+[1] <ins>**Cao Song**</ins>, Wenkai Lu, Yuqing Wang, Songbai Jin, Jinliang Tang, and Lei Chen,  
+**Reservoir Prediction Based on Closed-Loop CNN and Virtual Well-Logging Labels**, *IEEE Transactions on Geoscience and Remote Sensing*<font color=red>(IEEE TGRS)</font>, vol. 60, no. 5925313, pp: 1-12, 2022. (SCI, Q1, IF:7.5)\
 [2] <ins>**Cao Song**</ins>, Minghui Lu, Yuqing Wang, and Wenkai Lu, **A Dynamic Time Warping Loss-Based Closed-Loop CNN for Seismic Impedance Inversion**, *IEEE Transactions on Geoscience and Remote Sensing*<font color=red>(IEEE TGRS)</font>, vol. 60, no. 5925313, pp: 1-13, 2022. (SCI, Q1, IF:7.5)\
 [3] <ins>**Cao Song**</ins>, Minghui Lu, Yinshuo Li, Wenkai Lu, Xinhai Hu, Jianyong Song, Gang Chen, and Tinming Tang, **Spatial Pattern Learning: Dip Structure Constraint Multi-view Convolutional Neural Network for Pre-stacked Seismic Inversion**, *IEEE Transactions on Geoscience and Remote Sensing*<font color=red>(IEEE TGRS)</font>, vol. 61, no. 5917116, pp: 1-16, 2023. (SCI, Q1, IF:7.5)\
 [4] <ins>**Cao Song**</ins>, Minghui Lu, Wenkai Lu, Weiheng Geng, and Yinshuo Li, **Evolution Inversion: Co-evolution of Model and Data for Seismic Reservoir Parameters Inversion**, *IEEE Transactions on Geoscience and Remote Sensing*<font color=red>(IEEE TGRS)</font>, vol. 62, no. 5923718, pp: 1-18, 2024. (SCI, Q1, IF:7.5)\
